@@ -1,1 +1,0 @@
-class f{static getNumberCaseCi(s,t){return s!=null&&s.one?t%10===5||t%10===6||t%10===7||t%10===8||t%10===9||t%10===0||t%100>10&&t%100<20?s.five:t%10===2||t%10===3||t%10===4?s.two:s.one:!1}}export{f as F};
