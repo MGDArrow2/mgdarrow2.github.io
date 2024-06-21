@@ -1,0 +1,1 @@
+.accept{height:100dvh;overflow:auto}.accept *{overflow:visible}.accept__btn{display:flex;width:100%;padding:1dvh;color:var(--col-revers);font-weight:600;font-size:1.6em;text-transform:uppercase;background:var(--col-main-dark);border:.5dvh solid var(--col-text);border-radius:1dvh;place-content:center}
