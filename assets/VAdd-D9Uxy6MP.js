@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o as t,b as c,e as n,f as s,r}from"./index-ZJO1Hfqx.js";const a={},_={class:"add"};function d(m,f){const e=r("VIcon");return t(),c("button",_,[n(e,{name:"add"}),s(" Добавить")])}const i=o(a,[["render",d]]);export{i as V};
